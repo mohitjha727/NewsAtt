@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/imagenews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/newss"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newsatt"
+        android:padding="10dp"
+        android:rotation="-18"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textColor="#450303"
+        android:textSize="75sp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
