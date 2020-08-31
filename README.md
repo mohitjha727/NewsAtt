@@ -1,6 +1,6 @@
 # NewsAtt
 An android application showing the news using the API from newsapi.org </br>
-This project uses News API for fetching the news and Retrofit ( it is a REST Client for Java and Android) as HTTP Clent request then it is parsed using google's gson library.
+This project uses News API for fetching the news and Retrofit ( it is a REST Client for Java and Android) as HTTP Client request then it is parsed using google's gson library.
 
 ### Libraries
 - Retrofit for sending network requests.
