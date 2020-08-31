@@ -10,7 +10,7 @@ This project uses News API for fetching the news and Retrofit ( it is a REST Cli
 - Material Design.
 
 # Screenshot
-!(https://github.com/mohitjha727/NewsAtt/blob/master/NewsAttScreenshot.jpg)
+![alt text](https://github.com/mohitjha727/NewsAtt/blob/master/NewsAttScreenshot.jpg)
 
 # Usage 
 Get your API key by registering on https://newsapi.org/ or you can click [here](https://newsapi.org/register) to register.
